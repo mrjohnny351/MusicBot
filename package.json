@@ -16,7 +16,7 @@
     "canvas": "^2.11.2",
     "colors": "^1.4.0",
     "commandkit": "^0.1.10",
-    "discord.js": "^14.16.2",
+    "discord.js": "^14.27.0",
     "dotenv": "^16.4.5",
     "llyrics": "^1.1.7",
     "moment": "^2.30.1",
